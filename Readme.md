@@ -1,0 +1,1 @@
+Resource para servidor de MTA, Resource Client-Server Módulo de Fome, Sede e Sono Com o Tempo.
