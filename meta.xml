@@ -1,0 +1,11 @@
+<meta>
+    <info author="Alex" type="script" name="Fome, Sede e Sono" description="Sistema de Fome, Sede e Sono" />
+    <script src="fomeServer.lua" type="server"/>
+    <script src="sedeServer.lua" type="server"/>
+    <script src="sonoServer.lua" type="server"/>
+    <script src="fomeSedeSonoClient.lua" type="client"/>
+
+    <file src="images/baseHud.png" cache="false"/>
+    <file src="images/fomeFundoHud.png" cache="false"/>
+    <file src="images/fomeIconHud.png" cache="false"/>
+</meta>
